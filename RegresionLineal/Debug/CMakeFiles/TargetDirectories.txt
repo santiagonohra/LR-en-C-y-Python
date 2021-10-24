@@ -1,0 +1,3 @@
+/home/santiago/Documents/Universidad/Semestre 6/Machine Learning/Proyectos QT/RegresionLineal/Debug/CMakeFiles/rebuild_cache.dir
+/home/santiago/Documents/Universidad/Semestre 6/Machine Learning/Proyectos QT/RegresionLineal/Debug/CMakeFiles/edit_cache.dir
+/home/santiago/Documents/Universidad/Semestre 6/Machine Learning/Proyectos QT/RegresionLineal/Debug/CMakeFiles/RegresionLineal.dir
