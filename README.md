@@ -61,3 +61,5 @@ Adicionalmente, en la gráfica de la función de costo, se puede ver como se cum
 Para descargar y ejecutar el proyecto /RegresionLineal en QT Creator, es necesaria la definición de los kits a ser usados al momento de abrir el proyecto, para esto, se debe escoger sólo la opción de Debug en la categoría Build y darle la dirección /path/a/el/proyecto/RegresionLineal/Debug/, adicionalmente, en la parte de Run, se debe añadir en argumentos de línea de comandos el siguiente texto: '../winedata.csv "," header=True'.
 
 Asimismo, para información más a fondo de todo lo que se hizo en el proyecto, se recomienda abrir los ficheros .cpp, .h y .ipynb, los cuales se encuentran ampliamente comentados y explicados en su totalidad.
+
+Link del Cuaderno de Google Colab: [Cuaderno](https://colab.research.google.com/drive/1oSoWwa4vWd72UZ4y7NKP_N1FxDuhD98z?usp=sharing)
